@@ -4,3 +4,9 @@
 [submodule "simiki/themes/simple2"]
 	path = simiki/themes/simple2
 	url = https://github.com/simiki-org/simple2
+[submodule "simiki/themes/yasimple"]
+	path = simiki/themes/yasimple
+	url = ssh://git@github.com:tankywoo/yasimple.git
+[submodule "yasimple"]
+	path = simiki/themes/yasimple
+	url = git@github.com:tankywoo/yasimple.git
